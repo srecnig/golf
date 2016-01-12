@@ -1,0 +1,2 @@
+defmodule Golf do
+end

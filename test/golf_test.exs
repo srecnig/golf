@@ -1,0 +1,2 @@
+defmodule GolfTest do
+end
