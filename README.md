@@ -1,19 +1,7 @@
-# Golf
+# about
 
-**TODO: Add description**
+i sometimes do code golfing over at [stackexchange](http://codegolf.stackexchange.com) to practice [elixir](http://elixir-lang.org). i won't ever win any challenge against golfing-dedicated languages like [pyth](https://esolangs.org/wiki/Pyth), but it's still fun.
 
-## Installation
+# submissions
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add golf to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:golf, "~> 0.0.1"}]
-        end
-
-  2. Ensure golf is started before your application:
-
-        def application do
-          [applications: [:golf]]
-        end
+[Powerball!](http://codegolf.stackexchange.com/questions/69208/choose-the-powerball-numbers)
