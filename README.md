@@ -5,3 +5,4 @@ i sometimes do code golfing over at [stackexchange](http://codegolf.stackexchang
 # submissions
 
 [Powerball!](http://codegolf.stackexchange.com/questions/69208/choose-the-powerball-numbers)
+[Spoonerise](http://codegolf.stackexchange.com/a/69547/38082)
