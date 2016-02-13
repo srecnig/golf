@@ -10,6 +10,8 @@ defmodule Spoonerise do
 
 	def spoonerise_golfed a, b do
 		s=fn w->String.split_at(w,elem(hd(Regex.run(~r/[aeiou]/,w,return: :index)),0))end
-		[elem(s.(b),0)<>elem(s.(a),1),elem(s.(a),0)<>elem(s.(b),1)]
+		{v,w}=s.(a)
+		{x,y}=s.(b)
+		[x<>w,v<>y]
 	end
 end
